@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Lion\Lion\bin\Debug\Lion.exe.config
+C:\Users\user\source\repos\Lion\Lion\bin\Debug\Lion.exe
+C:\Users\user\source\repos\Lion\Lion\bin\Debug\Lion.pdb
+C:\Users\user\source\repos\Lion\Lion\obj\Debug\Lion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lion\Lion\obj\Debug\Lion.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Lion\Lion\obj\Debug\Lion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lion\Lion\obj\Debug\Lion.exe
+C:\Users\user\source\repos\Lion\Lion\obj\Debug\Lion.pdb

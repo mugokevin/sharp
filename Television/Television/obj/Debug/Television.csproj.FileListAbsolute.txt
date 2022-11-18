@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Television\Television\bin\Debug\Television.exe.config
+C:\Users\user\source\repos\Television\Television\bin\Debug\Television.exe
+C:\Users\user\source\repos\Television\Television\bin\Debug\Television.pdb
+C:\Users\user\source\repos\Television\Television\obj\Debug\Television.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Television\Television\obj\Debug\Television.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Television\Television\obj\Debug\Television.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Television\Television\obj\Debug\Television.exe
+C:\Users\user\source\repos\Television\Television\obj\Debug\Television.pdb

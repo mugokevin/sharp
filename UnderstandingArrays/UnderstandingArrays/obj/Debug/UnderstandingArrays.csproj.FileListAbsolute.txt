@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe.config
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.exe
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\bin\Debug\UnderstandingArrays.pdb
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.exe
+C:\Users\user\source\repos\UnderstandingArrays\UnderstandingArrays\obj\Debug\UnderstandingArrays.pdb

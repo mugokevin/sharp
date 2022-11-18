@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Useful\Useful\bin\Debug\Useful.exe.config
+C:\Users\user\source\repos\Useful\Useful\bin\Debug\Useful.exe
+C:\Users\user\source\repos\Useful\Useful\bin\Debug\Useful.pdb
+C:\Users\user\source\repos\Useful\Useful\obj\Debug\Useful.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Useful\Useful\obj\Debug\Useful.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Useful\Useful\obj\Debug\Useful.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Useful\Useful\obj\Debug\Useful.exe
+C:\Users\user\source\repos\Useful\Useful\obj\Debug\Useful.pdb

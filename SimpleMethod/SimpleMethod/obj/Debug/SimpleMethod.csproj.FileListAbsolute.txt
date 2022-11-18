@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe.config
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.exe
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\bin\Debug\SimpleMethod.pdb
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.exe
+C:\Users\user\source\repos\SimpleMethod\SimpleMethod\obj\Debug\SimpleMethod.pdb

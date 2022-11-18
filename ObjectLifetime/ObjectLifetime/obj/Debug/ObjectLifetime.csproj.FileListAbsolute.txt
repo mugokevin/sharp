@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+C:\Users\user\source\repos\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

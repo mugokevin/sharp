@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girraffe", "Girraffe\Girraffe.csproj", "{83A4DA9C-0DBB-41A9-AB3B-2596444AB24F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{5F128240-D446-49AA-9184-7D6C52DBFA13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A4DA9C-0DBB-41A9-AB3B-2596444AB24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A4DA9C-0DBB-41A9-AB3B-2596444AB24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A4DA9C-0DBB-41A9-AB3B-2596444AB24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A4DA9C-0DBB-41A9-AB3B-2596444AB24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F128240-D446-49AA-9184-7D6C52DBFA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F128240-D446-49AA-9184-7D6C52DBFA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F128240-D446-49AA-9184-7D6C52DBFA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F128240-D446-49AA-9184-7D6C52DBFA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82CEC534-C51E-4E41-9331-6172360107E8}
+	EndGlobalSection
+EndGlobal
